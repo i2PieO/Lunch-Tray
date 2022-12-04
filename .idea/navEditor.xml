@@ -16,6 +16,20 @@
                             <option name="x" value="184" />
                           </Point>
                         </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_accompanimentMenuFragment_to_checkoutFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_accompanimentMenuFragment_to_startOrderFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
                       </LayoutPositions>
                     </value>
                   </entry>
@@ -27,6 +41,15 @@
                             <option name="x" value="424" />
                             <option name="y" value="2" />
                           </Point>
+                        </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_checkoutFragment_to_startOrderFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
                         </option>
                       </LayoutPositions>
                     </value>
@@ -43,6 +66,11 @@
                         <option name="myPositions">
                           <map>
                             <entry key="action_entreeMenuFragment_to_sideMenuFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                            <entry key="action_entreeMenuFragment_to_startOrderFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -67,18 +95,23 @@
                                 <LayoutPositions />
                               </value>
                             </entry>
+                            <entry key="action_sideMenuFragment_to_startOrderFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                           </map>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="startOrderFragment">
+                  <entry key="startOrder">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-474" />
-                            <option name="y" value="-3" />
+                            <option name="x" value="12" />
+                            <option name="y" value="12" />
                           </Point>
                         </option>
                         <option name="myPositions">
